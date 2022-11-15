@@ -1,5 +1,5 @@
 eecd
-rrr
+comando 00
 comando 1
 comando 2
 comando 3
