@@ -4,4 +4,6 @@ comando 1
 comando 2
 comando 3
 comando 4
-comando 5
+comando 5git remote add origin https://github.com/Alessandropaixao/meu_github.git
+git branch -M main
+git push -u origin main
